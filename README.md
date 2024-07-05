@@ -1,4 +1,3 @@
 # Sentiment Classification Using RNN
 
-Training a RNN model on given dataset
-- By Venkata Ashita Medam (SE21UCSE243)
+- Training a RNN model on given dataset : By Venkata Ashita Medam
