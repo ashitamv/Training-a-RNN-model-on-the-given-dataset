@@ -2,4 +2,4 @@
 **Tech Stack Used -** Python, Pytorch
 
 **Highlights -**
-- Training a RNN model on given dataset 
+Training a RNN model on given dataset 
